@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Show da Fé</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Show da Fé</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html">Sobre nós</a></li>
+                <li><a href="eventos.html">Eventos</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="destaque">
+        <h2>Bem-vindo ao Show da Fé</h2>
+        <p>Seja tocado pela espiritualidade e inspiração.</p>
+        <a href="eventos.html" class="botao-destaque">Veja nossos eventos</a>
+    </section>
+    
+    <section class="sobre">
+        <h2>Sobre Nós</h2>
+        <p>O Show da Fé é um lugar de reflexão e espiritualidade, onde buscamos inspirar e fortalecer a fé de todos os nossos visitantes.</p>
+    </section>
+    
+    <section class="eventos">
+        <h2>Próximos Eventos</h2>
+        <ul>
+            <li>Conferência de Espiritualidade - 10 de Novembro</li>
+            <li>Show de Inspiracão - 15 de Dezembro</li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>&copy; 2023 Show da Fé. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
